@@ -11,11 +11,23 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/IMG_6980.PNG" width="18%" />
+  <img src="screenshots/IMG_6984.PNG" width="18%" />
+  <img src="screenshots/IMG_6981.PNG" width="18%" />
+  <img src="screenshots/IMG_6982.PNG" width="18%" />
+  <img src="screenshots/IMG_6983.PNG" width="18%" />
+</p>
+
+*Discovery screen · Hunt list · AR scanner · Progress tracker · Gallery map*
+
+---
+
 ## What It Does
 
 Aetheria turns six masterworks at the Met into an interactive scavenger hunt. Scan a painting with your iPhone camera — ARKit recognises it in real time, an AR overlay unlocks, and a narrative experience plays directly on the canvas.
-
-Each painting has a different interaction:
 
 | Painting | Artist | Interaction |
 |---|---|---|
