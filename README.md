@@ -7,9 +7,7 @@
 
 ## Demo
 
-
-
-Untitled - June 04, 2026 at 20.18.57.mp4
+https://github.com/user-attachments/assets/dc09a9c7-cd91-4208-afde-7186bc2cdc54
 
 ---
 
