@@ -7,7 +7,9 @@
 
 ## Demo
 
-[![Aetheria Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=s-yEjWY8oIU)
+https://github.com/JansonQuinlanPrieb/aetheria-museum-ar/raw/main/demo.mp4
+
+<sub>▶ Plays inline on GitHub. <a href="https://github.com/JansonQuinlanPrieb/aetheria-museum-ar/raw/main/demo.mp4">Open the clip directly</a> if it doesn't load.</sub>
 
 ---
 
