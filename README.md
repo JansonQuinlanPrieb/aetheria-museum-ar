@@ -7,9 +7,9 @@
 
 ## Demo
 
-https://github.com/JansonQuinlanPrieb/aetheria-museum-ar/raw/main/demo.mp4
 
-<sub>▶ Plays inline on GitHub. <a href="https://github.com/JansonQuinlanPrieb/aetheria-museum-ar/raw/main/demo.mp4">Open the clip directly</a> if it doesn't load.</sub>
+
+Untitled - June 04, 2026 at 20.18.57.mp4
 
 ---
 
